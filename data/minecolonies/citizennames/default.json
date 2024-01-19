@@ -1,0 +1,20 @@
+{
+  "parts": 3,
+  "order": "WESTERN",
+  "usemiddleinitial": false,
+  "male_firstname": [
+   "Richard", "Adam", "Geoffrey", "Peter", "John", "Walter", "Roger", "Simon", "Alexande",  "Gilbert", "Hugh", "Henry", "Nicholas", "Osbert", "Samson", "Thomas", "Warin", "Warin", "Waring", "Warinnus", "Alan", "Anselm", "Bartholomeus", "Bartolomew", "Benedict", "Herveus", "Hubert", "Huricus", "Michael", "Norman", "Oger", "Reinerus", "Stephen", "Alfridus", "Aluric", "Anandus", "Angot",
+	"Arnaldus", "Baldwin", "Brian", "Clement","Edward","Elwin","Elyas", "Folclune", "Freburn", "Gerard", "Godfrey", "Herbert", "Hereward", "Huhtred", "Ivo", "Jordan", "Leurmr", "Ludovic", "Manaser", "Martin", "Maurice", "Nigellus", "Odo", "Philip", "Raunulph", "Reginald", "Roscelyn", "Stanild",
+	"Thurbarius", "Wachel", "Wimerius", "Robertus", "Willelmus", "Nicholaus", "Henricus", "Hamelinus", "Johannes", "Theobaldus", "Thomas", "Gilbertus", "Gilebertus", "Hugo", "Rogerus", "Uthredus", "Wthredus", "Mauricius", "Ricardus", "Serlonus", "Serlo", "Urbanus", "Walterus", "Baldwinus", "Galfridus", "Helyas", "Herbertus", "Heribertus", "Radulphus", "Stephanus",
+	"Uganus", "Abraham", "Adam", "Alueredus", "Dilectus", "Dunewaldus","Ernulfus", "Gerardus", "Gundulfus", "Herewaldus", "Herveus", "Hillarius", "Hubertus", "Jacobus", "Jocelinus", "Manaser", "Morganus", "Nigellus", "Rodbertus", "Ruelen", "Sampson"
+
+  ],
+  "female_firstname": [
+    "Alice", "Matilda", "Agnes","Emma", "Gunilda", "Gunilde", "Gunnilda", "Margery", "Wimar", "Wimarc", "Wymarc", "Wymarcha", "Sara", "Sarah", "Amice", "Amicia", "Avice", "Avicia", "Beatrice", "Christiana", "Christina", "Cristiana", "Cristina", "Denise", "Joan", "Cecilia", "Cecily", "Gillian", "Isabel", "Isabella", "Larica", "Clarice", "Claricia","Emelota","Eva", "Helen", "Mabel", "Margaret",
+	"Sibyl", "Sybil", "Alina", "Constance", "Custance","Ede", "Lota","Edith", "Julian", "Juliana", "Katherine", "Maisenta", "Scolastica", "Seilda", "Agatha", "Albreda", "Ascelina", "Ascelota", "Auwenilda", "Cenota", "Clementia","Eda","Ede", "Lina","Elena","Eustachia", "Gillota", "Goda", "Gundreda", "Heloise", "Hodierna", "Idonea", "Imeina", "Isolda", "Mariota", "Olive", "Oresia", "Osanna", "Pelagia",
+	"Petronilla", "Philippa", "Roesia", "Rosamund", "Rose", "Sabina", "Susan", "Swanekil", "Swanekilda", "Theophania"
+  ],
+  "surnames": [
+    "Sweinstein", "Swinehouse", "Porzenegger", "Gaboar", "Oboarma", "Swine", "Piggery", "Chewbacon", "Chops", "Bacon", "Honeyham", "Chubbs", "Pigsley", "Swineatra", "Frankenswine", "Hamlet", "Hogzilla", "Hilpigger", "Hoggie Hog", "Slim", "Prosciutto", "Pork-Chopra", "Porkeypine", "Porkchop", "Pigasso", "Hamlin", "Loham", "Lopig", "Hogfiger", "Hilpigger", "Butterbutt", "Butterball", "Squealer", "Sooo-o-eeyy", "Buttercream", "Beans", "Cheeks", "Chopper", "Jerky", "McSizzle", "Snuffles", "Snouts", "Tails", "Truffles", "Baker", "Pigfoot", "Cheddar", "Crispy", "Crunchy", "McPork", "Porcelian", "McHam", "Guisantes", "Adobo", "Chowne", "Chudbberley", "Chubby", "Tubbs", "Potbelly", "Skillet", "Fryer", "Fried", "Stew-meat", "Simmering", "Menudo", "Tenderizer", "Hambo", "Hambone", "McRib", "McTasty", "Oinksalot", "Oinkers", "Corky", "Otherwhitemeat", "Crockpot", "Cunningham", "Fudd", "Hamon", "Hogdon", "Hogens", "Porkenbourn", "Hogley", "Hambard", "Hammond", "Hampden", "McPorky", "McDonald", "McMud", "Hogstetter", "Porkman", "Pancetta", "Pepperoni", "Sausage", "Chorizo"
+  ]
+}
