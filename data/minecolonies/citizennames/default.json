@@ -1,7 +1,6 @@
 {
-  "parts": 3,
+  "parts": 2,
   "order": "WESTERN",
-  "usemiddleinitial": false,
   "male_firstname": [
    "Richard", "Adam", "Geoffrey", "Peter", "John", "Walter", "Roger", "Simon", "Alexande",  "Gilbert", "Hugh", "Henry", "Nicholas", "Osbert", "Samson", "Thomas", "Warin", "Warin", "Waring", "Warinnus", "Alan", "Anselm", "Bartholomeus", "Bartolomew", "Benedict", "Herveus", "Hubert", "Huricus", "Michael", "Norman", "Oger", "Reinerus", "Stephen", "Alfridus", "Aluric", "Anandus", "Angot",
 	"Arnaldus", "Baldwin", "Brian", "Clement","Edward","Elwin","Elyas", "Folclune", "Freburn", "Gerard", "Godfrey", "Herbert", "Hereward", "Huhtred", "Ivo", "Jordan", "Leurmr", "Ludovic", "Manaser", "Martin", "Maurice", "Nigellus", "Odo", "Philip", "Raunulph", "Reginald", "Roscelyn", "Stanild",
